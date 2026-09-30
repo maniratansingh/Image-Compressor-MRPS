@@ -1,0 +1,63 @@
+======================================================
+GOOGLE PLAY STORE LISTING DETAILS
+======================================================
+
+App Name (Max 30 characters)
+----------------------------
+Image Compressor - No Ads
+
+Short Description (Max 80 characters)
+-------------------------------------
+Compress photos offline. 100% private, no internet required, and ZERO ads!
+
+Full Description (Max 4000 characters)
+--------------------------------------
+Tired of image compressors that spam you with annoying ads and secretly upload your private photos to the internet? 
+
+Welcome to Image Compressor by MRPS — the completely free, 100% offline, and ZERO-AD solution for reducing your photo sizes from MB to KB. 
+
+We believe your device is your own. That’s why our app runs totally locally on your phone. No servers, no internet uploads, and absolutely no ads to interrupt your workflow. Whether you need to shrink a photo for a government application form, crop an image for a job portal, or simply free up storage space, you can do it all instantly and privately.
+
+🌟 WHY CHOOSE THIS APP? 🌟
+• ABSOLUTELY NO ADS: Enjoy a clean, uninterrupted, frustration-free experience. 
+• 100% OFFLINE & PRIVATE: Your photos never leave your device. All processing happens locally.
+• FAST & LIGHTWEIGHT: No loading screens, no server wait times.
+
+📸 MAIN FEATURES 📸
+• Compress & Resize: Use our intuitive quality slider to perfectly balance file size and visual clarity.
+• See Estimated Sizes: Instantly view the estimated compressed file size before you even hit the compress button!
+• Exact File Size Mode: Need your photo to be exactly under 50KB for a job application or college form? Just type in the target size, and the app handles the rest.
+• Batch Compression: Select multiple images and compress them all at once to save massive amounts of time and storage.
+• Crop & Edit: Freely adjust aspect ratios, remove unwanted borders, and crop your images perfectly before compressing.
+• Storage Saver: The app explicitly tells you exactly how much storage space you saved after every compression!
+• Format Support: Works seamlessly with JPG, JPEG, PNG, and WEBP formats.
+
+💼 PERFECT FOR: 💼
+• Government and college application forms with strict KB size limits.
+• Reducing large camera photos to attach quickly to emails.
+• Making photos easier and faster to share on messaging apps.
+• Freeing up your phone's internal storage without deleting your memories.
+
+Take back control of your privacy and your phone’s storage. Image Compressor is built for simple, private, and fast image optimization on Android. 
+
+Developed by Mani Ratan Singh (MRPS).
+
+======================================================
+EXTRA DETAILS FOR GOOGLE PLAY CONSOLE
+======================================================
+
+1. App Category:
+   Tools (or Photography)
+
+2. Tags / Keywords (Select up to 5 in the console): 
+   - Image compression
+   - Photo resizer
+   - Offline tools
+   - File manager
+   - Storage cleaner
+
+3. Contains Ads? 
+   Select "No" (This will give you the official "No Ads" badge on the Play Store!)
+
+4. Privacy Policy (For mrps.in):
+   "This app does not collect, store, or transmit any personal data. All image processing happens locally on the user's device. No internet connection is required, and no data is shared with third parties."

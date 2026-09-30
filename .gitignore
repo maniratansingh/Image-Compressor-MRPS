@@ -1,0 +1,25 @@
+# Gradle and Build Files
+build/
+.gradle/
+app/build/
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+
+# MacOS
+.DS_Store
+
+# Keystore and Keys (CRITICAL: Do not upload signing keys to GitHub)
+*.jks
+*.keystore
+
+# Generated APKs and Bundles (These should not be version controlled)
+*.apk
+*.aab
+*.ap_
+
+# Logs
+*.log

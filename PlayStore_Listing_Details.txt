@@ -1,0 +1,54 @@
+==================================================
+PLAY STORE LISTING DETAILS - IMAGE COMPRESSOR MRPS
+==================================================
+
+[APP NAME] (Max 30 characters)
+Image Compressor MB to KB
+
+[SHORT DESCRIPTION] (Max 80 characters)
+Compress, resize, and crop photos offline. Reduce image sizes from MB to KB fast.
+
+[FULL DESCRIPTION] (Max 4000 characters)
+Image Compressor MB to KB helps you reduce large photo sizes directly on your Android phone. Compress JPG, PNG and WEBP images, crop photos to your desired aspect ratio, preview results before saving, and create smaller image files for online forms, email, documents, and storage saving.
+
+Your photos stay 100% private. Compression happens directly on your device, meaning your images are never uploaded to any server or cloud.
+
+WHY USE THIS APP?
+• Reduce large photos from MB to small KB file sizes.
+• Crop photos and adjust aspect ratios freely with an intuitive editor.
+• Preview compressed images with a side-by-side comparison before saving.
+• View real-time estimated file sizes while adjusting the quality slider.
+• Enter an exact target file size (e.g., 50KB) for strict form requirements.
+• Batch Compress multiple photos at once to save time.
+• Free up valuable storage space on your phone.
+• Supports JPG, JPEG, PNG (Lossless), and WEBP formats.
+• Perfect for job applications, university forms, emails, and sharing.
+
+MAIN FEATURES
+Live Comparison Preview
+Check the compressed image quality before saving so you can balance file size and visual clarity.
+
+Crop Photos & Adjust Aspect Ratio
+Easily crop images to custom dimensions or standard aspect ratios before compression.
+
+Compress and Resize
+Control image quality, dimensions, and resolution manually to get the perfect file size.
+
+Batch Compression
+Select multiple images and compress them all together in the background to the same standard.
+
+100% Offline & Private
+All image processing happens locally on your Android device. No internet connection is required.
+
+Storage Saver
+See exactly how much storage space you saved after compressing your images.
+
+Built by MRPS for simple, private, and fast image compression on Android.
+
+[KEYWORDS / TAGS]
+image compressor, reduce photo size, MB to KB, resize image, crop photo, batch compress, offline compressor, photo resizer, jpeg compressor, exact file size
+
+[DEVELOPER DETAILS]
+Developer Name: Mani Ratan Singh Ratan
+Brand: MRPS
+Website: https://mrps.in

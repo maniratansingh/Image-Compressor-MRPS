@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!--
+        Foreground: Image compression concept
+        - Outer rounded rectangle representing an image/photo frame
+        - Inward-pointing arrows suggesting compression
+        Centered in the 66dp safe zone (21dp inset on each side)
+    -->
+
+    <!-- Image frame (rounded rectangle) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,32 L74,32 C76.2,32 78,33.8 78,36 L78,72 C78,74.2 76.2,76 74,76 L34,76 C31.8,76 30,74.2 30,72 L30,36 C30,33.8 31.8,32 34,32 Z"
+        android:strokeWidth="0" />
+
+    <!-- Mountain/landscape icon inside frame (subtle image symbol) -->
+    <path
+        android:fillColor="#0D7377"
+        android:fillAlpha="0.25"
+        android:pathData="M34,68 L44,55 L50,62 L58,50 L74,68 Z" />
+
+    <!-- Sun circle (image symbol) -->
+    <path
+        android:fillColor="#0D7377"
+        android:fillAlpha="0.25"
+        android:pathData="M42,44 m-4,0 a4,4 0,1 1,8 0 a4,4 0,1 1,-8 0" />
+
+    <!-- Compression arrows: top-left inward -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,26 L32,36"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,26 L22,26 L22,32"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Compression arrows: top-right inward -->
+    <path
+        android:pathData="M86,26 L76,36"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M80,26 L86,26 L86,32"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Compression arrows: bottom-left inward -->
+    <path
+        android:pathData="M22,82 L32,72"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M28,82 L22,82 L22,76"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Compression arrows: bottom-right inward -->
+    <path
+        android:pathData="M86,82 L76,72"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M80,82 L86,82 L86,76"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+</vector>
